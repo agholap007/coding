@@ -1,0 +1,9 @@
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\bin\Debug\netcoreapp1.1\Leetcode.deps.json
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\bin\Debug\netcoreapp1.1\Leetcode.runtimeconfig.json
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\bin\Debug\netcoreapp1.1\Leetcode.runtimeconfig.dev.json
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\bin\Debug\netcoreapp1.1\Leetcode.dll
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\bin\Debug\netcoreapp1.1\Leetcode.pdb
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\obj\Debug\netcoreapp1.1\Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\obj\Debug\netcoreapp1.1\Leetcode.AssemblyInfo.cs
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\obj\Debug\netcoreapp1.1\Leetcode.dll
+C:\Users\amghola\Google Drive\Year2021\DS\Leetcode\obj\Debug\netcoreapp1.1\Leetcode.pdb

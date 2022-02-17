@@ -1,0 +1,6 @@
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DataStrucutre.exe.config
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DataStrucutre.exe
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DataStrucutre.pdb
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DataStrucutre.exe
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DataStrucutre.pdb

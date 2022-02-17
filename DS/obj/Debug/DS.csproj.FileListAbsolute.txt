@@ -1,0 +1,7 @@
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DS.exe.config
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DS.exe
+C:\Users\amghola\source\repos\DS\DS\bin\Debug\DS.pdb
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DS.exe
+C:\Users\amghola\source\repos\DS\DS\obj\Debug\DS.pdb

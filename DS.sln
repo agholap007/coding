@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DS\DataStructure.csproj", "{C342920D-7853-433E-B193-5CCDFD025528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{1CB9FC25-086C-42DA-A8AC-9D9898BB751D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Leetcode\Leetcode.csproj", "{52DDCBB9-83FF-4B69-B5B5-8683DEFAF2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C342920D-7853-433E-B193-5CCDFD025528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C342920D-7853-433E-B193-5CCDFD025528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C342920D-7853-433E-B193-5CCDFD025528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C342920D-7853-433E-B193-5CCDFD025528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB9FC25-086C-42DA-A8AC-9D9898BB751D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB9FC25-086C-42DA-A8AC-9D9898BB751D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB9FC25-086C-42DA-A8AC-9D9898BB751D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB9FC25-086C-42DA-A8AC-9D9898BB751D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DDCBB9-83FF-4B69-B5B5-8683DEFAF2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DDCBB9-83FF-4B69-B5B5-8683DEFAF2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DDCBB9-83FF-4B69-B5B5-8683DEFAF2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DDCBB9-83FF-4B69-B5B5-8683DEFAF2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {529D7680-0933-4A9B-BCDC-9D851D0A2512}
+	EndGlobalSection
+EndGlobal

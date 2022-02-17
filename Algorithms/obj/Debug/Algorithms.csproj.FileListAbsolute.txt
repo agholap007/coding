@@ -1,0 +1,11 @@
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\amghola\source\repos\DS\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\amghola\source\repos\DS\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\amghola\source\repos\DS\Algorithms\obj\Debug\Algorithms.csproj.CopyComplete
+C:\Users\amghola\source\repos\DS\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\amghola\source\repos\DS\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\DataStrucutre.exe
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\DataStrucutre.pdb
+C:\Users\amghola\source\repos\DS\Algorithms\bin\Debug\DataStrucutre.exe.config
