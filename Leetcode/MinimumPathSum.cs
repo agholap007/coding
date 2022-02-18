@@ -11,19 +11,25 @@ Explanation: Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
 using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
-public class MinimumPathSum{
-    public static int MinimumSum(List<int[]> path){
+public class MinimumPathSum
+{
+    public static int MinimumSum(List<int[]> path)
+    {
         var matrix = path.ToArray();
-        for(int i = 0; i < matrix.Length; i++){
-            for(int j = 0; j < matrix[0].Length; j++){
+        for (int i = 0; i < matrix.Length; i++)
+        {
+            for (int j = 0; j < matrix[0].Length; j++)
+            {
                 Console.WriteLine($" {matrix[i][j]} ");
             }
         }
         return 7;
     }
 
-    public static void Test(){
+    public static void Test()
+    {
         var out1 = MinimumSum(new List<int[]>(){
             new int[]{1, 3, 1 },
             new int[]{1, 5, 1 },
